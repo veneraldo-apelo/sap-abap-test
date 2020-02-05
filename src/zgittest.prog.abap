@@ -6,3 +6,4 @@
 REPORT ZGITTEST.
 write: / 'hello world'.
 write: / 'hello world'.
+write: / 'hello world'.
